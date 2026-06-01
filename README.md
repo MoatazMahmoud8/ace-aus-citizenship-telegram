@@ -25,6 +25,46 @@ GitHub Actions runs `bot.py` **every hour**. On each run the bot:
 Result: exactly one post per day at a different, random-looking hour, with no
 long-running job (well under GitHub's 6-hour limit) and full audit trail.
 
+## Recall feedback workflow (when a friend tells you what they got)
+
+When someone messages you the questions they remembered after sitting the test:
+
+```bash
+# 1. Paste their list into a file, one phrase per line:
+mkdir -p recalls && nano recalls/$(date +%F).txt
+
+# 2. See which are already in the bank (top-3 candidates per phrase):
+python scripts/recall.py check recalls/$(date +%F).txt
+
+# 3. Auto-increment recallCount on the best match for each phrase;
+#    anything unmatched is written as an editable stub:
+python scripts/recall.py bump recalls/$(date +%F).txt
+
+# 4. (If there were misses) edit recalls/missing-YYYY-MM-DD.json with real
+#    options + correctAnswer + explanation, then:
+python scripts/recall.py add recalls/missing-$(date +%F).json
+
+# 5. Refresh the cheat-sheet and push:
+python scripts/build_last_minute_exam.py
+git add questions.json last-minute-exam.md recalls/
+git commit -m "recall: $(date +%F)"
+git push
+```
+
+Every question carries a `recallCount` field. The Telegram bot prepends a
+🔥 *"Frequently asked in recent tests (xN)"* badge to the explanation when it
+picks a recalled question, so members instantly know it's a known-hot one.
+
+The full list of recalled questions, grouped by category, lives in
+[`last-minute-exam.md`](./last-minute-exam.md) — a one-page revision sheet to
+skim the night before the test.
+
+Inspect the current hot list any time:
+
+```bash
+python scripts/recall.py top 30
+```
+
 ## One-time setup
 
 1. **Create a GitHub repo** for this folder and push it:

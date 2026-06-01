@@ -11,7 +11,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Fairness is a core Australian value. Australian society values equality, respect, and giving everyone a fair go.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 2,
@@ -25,7 +26,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australian values define and shape our country. They are the reason many people want to become Australian citizens.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 3,
@@ -39,7 +41,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australian laws and legal systems protect all Australians, regardless of their background or status.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 4,
@@ -53,7 +56,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "The Rule of Law means everyone must follow Australian laws regardless of their background or culture.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
   },
   {
     "id": 5,
@@ -67,7 +71,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Nobody is above the law in Australia. The Rule of Law applies equally to everyone.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 6,
@@ -81,7 +86,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Everybody in Australia must obey the law, regardless of who they are.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
   },
   {
     "id": 7,
@@ -95,7 +101,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Breaking the law in Australia results in penalties, which can include fines or imprisonment.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 8,
@@ -109,7 +116,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "You must always follow Australian laws. There are no exceptions based on background, culture, or circumstances.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 9,
@@ -123,7 +131,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australia's system of government is a parliamentary democracy, where citizens vote for representatives.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
   },
   {
     "id": 10,
@@ -137,7 +146,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "In Australia, laws are determined by parliaments that are elected by the people through democratic elections.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 11,
@@ -151,7 +161,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australian citizens participate in governance by electing representatives to parliament who determine the laws.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 12,
@@ -165,7 +176,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "The power of government in Australia comes from the Australian people, who elect their representatives.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 13,
@@ -179,7 +191,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Government power comes from the people because Australian citizens vote for their parliamentary representatives.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 14,
@@ -193,7 +206,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Compulsory voting demonstrates the importance of every citizen participating in the democratic process.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
   },
   {
     "id": 15,
@@ -207,7 +221,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australia is a parliamentary democracy where citizens are actively involved through voting and elections.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 16,
@@ -221,7 +236,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "People in Australia are free to express their ideas as long as it is within the law.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 17,
@@ -235,7 +251,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australians are free to meet for social or political discussions in both public and private places.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 18,
@@ -249,7 +266,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Freedom of speech in Australia allows people to express their views on any topic within the law.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 19,
@@ -263,7 +281,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Freedom of expression means everyone can peacefully express their opinions within the law, even if others disagree.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 20,
@@ -277,7 +296,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "In Australia, people are free to discuss their ideas with everybody, regardless of background or affiliation.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 21,
@@ -291,7 +311,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australians have the right to peacefully protest against government actions as part of their democratic freedoms.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 22,
@@ -305,7 +326,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Tolerance of peaceful public protest is an essential part of democracy and a key Australian value.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 23,
@@ -319,7 +341,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Everybody in Australia is free to say and write what they think and discuss their ideas with others.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 24,
@@ -333,7 +356,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "If you disagree with the government, you are allowed to peacefully protest within the law.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 25,
@@ -347,7 +371,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Freedom of speech and expression allow people to express ideas freely, as long as it is within the law.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
   },
   {
     "id": 26,
@@ -361,7 +386,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Freedom of speech and expression allows you to both say and write what you think on any topic.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
   },
   {
     "id": 27,
@@ -375,7 +401,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australian laws protect individuals against false allegations. Vigilante justice is not acceptable.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 28,
@@ -389,7 +416,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Meeting with people for social or political discussion is a lawful exercise of freedom of association.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 29,
@@ -403,7 +431,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "We must respect others' freedom of speech and expression, as long as it is lawful.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 30,
@@ -417,7 +446,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Freedom of association means people can freely join or leave any legal group. Nobody is forced to join anything.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 31,
@@ -431,7 +461,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Freedom of association means Australians can gather freely with others for lawful purposes.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 32,
@@ -445,7 +476,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Lawful protests must be peaceful without injuring anyone or damaging property.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 33,
@@ -459,7 +491,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australia has no official national religion. It is a secular country with freedom of religion.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
   },
   {
     "id": 34,
@@ -473,7 +506,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "The Australian government treats all citizens equally regardless of their religion or beliefs.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
   },
   {
     "id": 35,
@@ -487,7 +521,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Forced marriage is illegal in Australia. People have the right to choose who they marry.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
   },
   {
     "id": 36,
@@ -501,7 +536,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australian law always takes precedence. Everyone must follow Australian laws even if they differ from religious laws.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
   },
   {
     "id": 37,
@@ -515,7 +551,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Breaking Australian laws through religious or cultural practices can result in severe penalties including imprisonment.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 38,
@@ -529,7 +566,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australian society values equal rights for all people, regardless of background, gender, or religion.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 39,
@@ -543,7 +581,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Freedom of religion is a key Australian value. People are free to follow any religion they choose.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 40,
@@ -557,7 +596,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australian society values the equal rights of all people and has laws to protect against discrimination.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 41,
@@ -571,7 +611,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "People of all faiths receive the same treatment in Australia. The government does not favour any religion.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 42,
@@ -585,7 +626,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australian marriage law allows marriage between any two people, regardless of gender.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 43,
@@ -599,7 +641,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Men and women have equal access to education and employment in Australia.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 44,
@@ -613,7 +656,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Both men and women have equal rights to vote and stand for Parliament in Australia.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 45,
@@ -627,7 +671,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Both men and women can join the Australian Defence Force and the police force.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 46,
@@ -641,7 +686,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Both men and women have equal access to education in Australia, regardless of any other factors.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 47,
@@ -655,7 +701,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Gender equality means men and women should have equal opportunity to pursue their goals and interests.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 48,
@@ -669,7 +716,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Men and women are treated equally in courts of law and in all aspects of Australian society.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 49,
@@ -683,7 +731,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Both men and women are equally protected by law from intimidation or violence of any kind.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 50,
@@ -697,7 +746,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Either a husband or a wife has the right to apply for divorce, reflecting gender equality in Australia.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 51,
@@ -711,7 +761,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Both men and women have the right to make their own independent choices about marriage and religion.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 52,
@@ -725,7 +776,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "A \"fair go\" means everyone gets an equal opportunity to succeed, regardless of their background.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
   },
   {
     "id": 53,
@@ -739,7 +791,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Fairness is an important aspect of Australian society, reflected in the concept of a \"fair go\" for all.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 54,
@@ -753,7 +806,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australian law supports selecting the person with the best skills and experience, free from discrimination.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 55,
@@ -767,7 +821,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "In Australia, achievement should result from hard work and talents, not wealth, background, or social class.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 56,
@@ -781,7 +836,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Jobs and promotions should be based on skills and experience, not on ethnicity, gender, or other factors.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 57,
@@ -795,7 +851,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "New migrants can become leaders through their hard work and enterprise, reflecting the Australian \"fair go\".",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 58,
@@ -809,7 +866,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Mutual respect and tolerance mean respecting the opinions and choices of others.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 59,
@@ -823,7 +881,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "All forms of violence are illegal in Australia, including both verbal and physical abuse.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 60,
@@ -837,7 +896,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "When disagreeing with others, Australians should do so peacefully, without intimidation or abuse.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 61,
@@ -851,7 +911,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Encouraging violence is always against Australian values and the law, regardless of any provocation.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 62,
@@ -865,7 +926,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Peaceful disagreement reflects Australian values of mutual respect and tolerance.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 63,
@@ -879,7 +941,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "The age of sexual consent in Australia is 16 or 17, depending on the state or territory.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 64,
@@ -893,7 +956,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "You should obey lawful requests from the police. Supporting lawful police actions is an Australian value.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 65,
@@ -907,7 +971,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Supporting the lawful actions of the police is part of mutual respect and maintaining social order.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 66,
@@ -921,7 +986,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Mutual respect means listening to and respecting others' views, even when they differ from your own.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 67,
@@ -935,7 +1001,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Racism has no place in Australia. All forms of racism, including online and at events, are unacceptable.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 68,
@@ -949,7 +1016,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australian citizenship gives you the opportunity to fully participate in the nation's life and community.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 69,
@@ -963,7 +1031,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australian citizenship means being ready to fulfill your responsibilities as an Australian citizen.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 70,
@@ -977,7 +1046,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australians expect everyone to participate in society and contribute to the community.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 71,
@@ -991,7 +1061,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Everyone has a responsibility to try to support themselves and their families when able.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 72,
@@ -1005,7 +1076,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "The spirit of mateship means helping each other in times of need, a core Australian value.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 73,
@@ -1019,7 +1091,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Taking a meal to an elderly neighbor is an example of mateship — looking out for and helping others.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 74,
@@ -1033,7 +1106,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australia has a strong tradition of volunteering with many opportunities available for everyone.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 75,
@@ -1047,7 +1121,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Volunteering offers the opportunity to increase your sense of belonging to the Australian community.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 76,
@@ -1061,7 +1136,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Volunteering or fundraising for a charity is a great way to contribute to and strengthen the Australian community.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 77,
@@ -1075,7 +1151,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "English is the national language of Australia and is valued as an important unifying element of society.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 78,
@@ -1089,7 +1166,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "English is valued as an important unifying element of Australian society.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 79,
@@ -1103,7 +1181,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Learning English helps integrate into the community, find employment, and access education.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 80,
@@ -1117,7 +1196,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Citizenship applicants must undertake to make reasonable efforts to learn the English language.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 81,
@@ -1131,7 +1211,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Yes, learning English helps with education, employment, and community integration in Australia.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 82,
@@ -1145,7 +1226,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Everyone has a responsibility to keep society safe by reporting suspected serious crimes to authorities.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 83,
@@ -1159,7 +1241,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Cyber abuse is also known as online abuse and includes various forms of harassment conducted via the internet.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 84,
@@ -1173,7 +1256,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Many forms of cyber abuse are illegal in Australia, including online stalking and harassment.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 85,
@@ -1187,7 +1271,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Stalking a person online is a form of cyber abuse and is illegal in Australia.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 86,
@@ -1201,7 +1286,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australian citizens may hold dual or multiple citizenships if the other countries' laws permit it.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 87,
@@ -1215,7 +1301,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "As an Australian citizen within Australia, you must follow all Australian laws at all times, even with dual citizenship.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 88,
@@ -1229,7 +1316,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Some Australian laws apply to citizens even while overseas, such as laws against child exploitation.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 89,
@@ -1243,7 +1331,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australian society is built on shared obligations not to undermine the nation's interests and security.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 90,
@@ -1257,7 +1346,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "During the 2019-20 bushfires, many multicultural communities came together to help those affected.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 91,
@@ -1271,7 +1361,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "In times of crisis, Australians come together and take care of each other, embodying the spirit of mateship.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 92,
@@ -1285,7 +1376,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Our democratic institutions and shared Australian values have created a peaceful and stable society.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 93,
@@ -1299,7 +1391,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australia has a rich and unique culture shaped by its diverse multicultural society.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 94,
@@ -1313,7 +1406,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Citizenship is our common bond, uniting all Australians regardless of background.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 0
   },
   {
     "id": 101,
@@ -1327,7 +1421,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "In the Australian citizenship pledge, you pledge your loyalty to Australia and its people, reflecting your commitment to the nation and its community.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 102,
@@ -1341,7 +1436,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Understanding Australia's community and population is important because at the citizenship ceremony, you pledge your loyalty to Australia and its people.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 103,
@@ -1355,7 +1451,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Aboriginal and Torres Strait Islander peoples are Australia's first inhabitants, with the oldest continuous cultures in the world.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 104,
@@ -1369,7 +1466,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Aboriginal and Torres Strait Islander peoples are Australia's Indigenous cultures, with deep connections to the land spanning tens of thousands of years.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 105,
@@ -1383,7 +1481,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Aboriginal and Torres Strait Islander peoples have the oldest continuous cultures and traditions in the world, dating back tens of thousands of years.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 106,
@@ -1397,7 +1496,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Aboriginal people are historically from mainland Australia and Tasmania, where they have lived for tens of thousands of years.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 107,
@@ -1411,7 +1511,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Archaeological evidence indicates Aboriginal peoples arrived in Australia between 65,000 and 40,000 years ago, making their cultures among the oldest in the world.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 108,
@@ -1425,7 +1526,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Aboriginal peoples believe their creation stories commence with the beginning of time, forming the foundation of their spiritual and cultural identity.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 109,
@@ -1439,7 +1541,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Torres Strait Islander people come from the islands located between the northern tip of Queensland and Papua New Guinea.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 110,
@@ -1453,7 +1556,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "It is true that Aboriginal and Torres Strait Islander peoples have age-old beliefs and traditions that continue to guide them in their daily lives today.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 111,
@@ -1467,7 +1571,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Aboriginal and Torres Strait Islander peoples express their deep connections with the land through stories, art, dance, and many other cultural practices.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 112,
@@ -1481,7 +1586,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "European settlement started when the first 11 convict ships, known as the First Fleet, arrived from Great Britain on 26 January 1788.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 113,
@@ -1495,7 +1601,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The First Fleet mostly transported convicts from Great Britain, as British jails were overcrowded due to harsh laws.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 114,
@@ -1509,7 +1616,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "European settlement in Australia began on 26 January 1788, when the First Fleet arrived. This date is now celebrated as Australia Day.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 115,
@@ -1523,7 +1631,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The first 11 convict ships that arrived from Great Britain are collectively known as the First Fleet.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 116,
@@ -1537,7 +1646,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "On 26 January 1788, European settlement started in Australia with the arrival of the First Fleet from Great Britain.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 117,
@@ -1551,7 +1661,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The First Fleet of 11 convict ships came from Great Britain, arriving in Australia on 26 January 1788.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 118,
@@ -1565,7 +1676,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Great Britain sent convicts to Australia because British laws were harsh and the jails could not hold the large number of people imprisoned for their crimes.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 119,
@@ -1579,7 +1691,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The British Government decided to transport convicts to the colony of New South Wales, which was the first colony established in Australia.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 120,
@@ -1593,7 +1706,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Captain Arthur Phillip was the first governor of the colony of New South Wales, leading the First Fleet to Australia in 1788.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 121,
@@ -1607,7 +1721,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The early free settlers of New South Wales came from Great Britain and Ireland, establishing the colony alongside the convict population.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 122,
@@ -1621,7 +1736,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Early free settlers in Australia came from Great Britain and Ireland, contributing to the development of the colonies.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 123,
@@ -1635,7 +1751,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The British and Irish heritage has had a major influence on Australia's history, culture and political institutions.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 124,
@@ -1649,7 +1766,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Gold was discovered in the colonies of New South Wales and Victoria in 1851, triggering a major gold rush.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 125,
@@ -1663,7 +1781,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Gold was discovered in the colonies of New South Wales and Victoria in 1851, attracting people from all around the world.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 126,
@@ -1677,7 +1796,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "In 1851, a gold rush began following the discovery of gold in New South Wales and Victoria, dramatically increasing Australia's population.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 127,
@@ -1691,7 +1811,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Chinese were the first large group of non-European migrants, arriving during the gold rush of the 1850s.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 128,
@@ -1705,7 +1826,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "During the gold rush, people from all around the world came to New South Wales and Victoria to try to make their fortunes.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 129,
@@ -1719,7 +1841,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "In 1901, the separate colonies were united into a federation of states called the Commonwealth of Australia.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 130,
@@ -1733,7 +1856,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The federation of states in Australia is called the Commonwealth of Australia, established in 1901.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 131,
@@ -1747,7 +1871,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "In 1901, the separate colonies united into a federation of states called the Commonwealth of Australia under a new Constitution.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
   },
   {
     "id": 132,
@@ -1761,7 +1886,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Under the new Australian Constitution in 1901, Australia's national democratic institutions were established to govern the new federation.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
   },
   {
     "id": 133,
@@ -1775,7 +1901,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "When the Commonwealth of Australia was formed in 1901, the population was about four million people.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 134,
@@ -1789,7 +1916,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Aboriginal and Torres Strait Islander peoples were included in official population estimates after a Referendum in 1967.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 135,
@@ -1803,7 +1931,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "During the first half of the 20th century, migration levels rose and fell depending on economic conditions and world events.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 136,
@@ -1817,7 +1946,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "After World War II, large numbers of Europeans came to Australia to build a new life, significantly increasing Australia's cultural diversity.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 137,
@@ -1831,7 +1961,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Australia's diverse and prosperous society enhances its connection to the world, reflecting the contributions of people from many different backgrounds.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 138,
@@ -1845,7 +1976,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "English is Australia's national language and is essential for participating fully in Australian society.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 139,
@@ -1859,7 +1991,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Communicating in English is important for making the most of living and working in Australia, while other languages are also valued.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 140,
@@ -1873,7 +2006,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Australia values more than 100 distinct Aboriginal and Torres Strait Islander languages, reflecting the rich cultural diversity of Indigenous peoples.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 141,
@@ -1887,7 +2021,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Commonwealth of Australia is a federation of states and territories, comprising six states and two major territories.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 142,
@@ -1901,7 +2036,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Australia has six states: New South Wales, Victoria, Queensland, Western Australia, South Australia, and Tasmania.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 143,
@@ -1915,7 +2051,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Canberra is Australia's capital city, located in the Australian Capital Territory between Sydney and Melbourne.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
   },
   {
     "id": 144,
@@ -1929,7 +2066,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Darwin is the capital of the Northern Territory, located on Australia's northern coast.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
   },
   {
     "id": 145,
@@ -1943,7 +2081,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Sydney is the capital city of New South Wales, and is also Australia's largest city.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 146,
@@ -1957,7 +2096,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "New South Wales was the first colony established by the British in 1788 when the First Fleet arrived.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 147,
@@ -1971,7 +2111,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Sydney is Australia's largest city, located in New South Wales. It is known for its iconic Harbour Bridge and Opera House.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
   },
   {
     "id": 148,
@@ -1985,7 +2126,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Sydney's Harbour Bridge is one of Australia's most recognisable national icons, located in Sydney, New South Wales.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 149,
@@ -1999,7 +2141,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Victoria is the smallest of Australia's mainland states but is one of the most densely populated.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 150,
@@ -2013,7 +2156,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Many fine buildings in Victoria were built from the wealth generated by the gold rush of the 1850s, which brought enormous prosperity to the colony.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 151,
@@ -2027,7 +2171,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Victoria is the state where many fine buildings were built from the wealth created by the gold rush of the 1850s.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 152,
@@ -2041,7 +2186,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The 12 Apostles are a collection of limestone stacks off the shore of Victoria, and are one of the state's most famous icons.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 153,
@@ -2055,7 +2201,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Queensland is Australia's second largest state by area, located in the north-east of the country.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 154,
@@ -2069,7 +2216,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Queensland has the Torres Strait Islands to the north, located between the northern tip of Queensland and Papua New Guinea.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 155,
@@ -2083,7 +2231,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Great Barrier Reef is located off the coast of Queensland and is the world's largest coral reef system.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 156,
@@ -2097,7 +2246,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Queensland features tropical rainforests, temperate coastal areas, and an often dry inland, making it one of Australia's most geographically diverse states.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 157,
@@ -2111,7 +2261,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Western Australia is Australia's largest state, covering about one-third of the Australian continent.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 158,
@@ -2125,7 +2276,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Western Australia is home to many large mining projects, making it a major contributor to Australia's economy.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 159,
@@ -2139,7 +2291,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Kimberley region is a famous icon of Western Australia, known for its spectacular landscapes and gorges.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 160,
@@ -2153,7 +2306,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "South Australia is known for its rugged coastline and many famous wine regions, including the Barossa Valley.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 161,
@@ -2167,7 +2321,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Bass Strait separates Tasmania from mainland Australia, named after explorer George Bass.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 162,
@@ -2181,7 +2336,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Tasmania is known for its mostly unspoilt wilderness landscapes, with much of the island being protected as national parks and reserves.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 163,
@@ -2195,7 +2351,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Port Arthur is a famous Tasmanian icon, a historic convict settlement on the Tasman Peninsula.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 164,
@@ -2209,7 +2366,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Australian Capital Territory (ACT) is situated between Sydney and Melbourne, chosen as a compromise location for the national capital.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 165,
@@ -2223,7 +2381,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Parliament House and the High Court of Australia are located in Canberra, the nation's capital city in the Australian Capital Territory.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
   },
   {
     "id": 166,
@@ -2237,7 +2396,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The High Court of Australia is a national institution located in Canberra, the nation's capital.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 167,
@@ -2251,7 +2411,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Kata Tjuta (also known as the Olgas) is a famous Northern Territory icon, a group of large rock formations west of Uluru.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 168,
@@ -2265,7 +2426,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "A Welcome to Country is a cultural practice performed by an Aboriginal or Torres Strait Islander custodian to welcome visitors to their traditional land.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 169,
@@ -2279,7 +2441,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "A Welcome to Country was traditionally performed to ensure visitors had a safe and protected journey during their time on that land.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 170,
@@ -2293,7 +2456,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "A Welcome to Country is usually the first item of proceedings to open an event, and can take various forms including speeches, dance, or smoking ceremonies.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 171,
@@ -2307,7 +2471,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "An Acknowledgement of Country is an opportunity to recognise that a gathering is taking place on Aboriginal or Torres Strait Islander land.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 172,
@@ -2321,7 +2486,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "An Acknowledgement of Country is usually delivered as part of the Welcome and Housekeeping at meetings and events, and can be delivered by anyone.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 173,
@@ -2335,7 +2501,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "A Welcome to Country is usually the first item of proceedings to open an event in Aboriginal or Torres Strait Islander cultures.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 174,
@@ -2349,7 +2516,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Australia Day is celebrated on 26 January each year, marking the anniversary of the arrival of the First Fleet in 1788.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 175,
@@ -2363,7 +2531,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Australia Day represents the anniversary of the arrival of the First Fleet from Great Britain on 26 January 1788.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 176,
@@ -2377,7 +2546,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "On Australia Day, people reflect on our history and the people who have contributed to our shared achievements as a nation.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 177,
@@ -2391,7 +2561,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Australia Day, celebrated on 26 January, is the biggest annual public holiday in Australia.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 178,
@@ -2405,7 +2576,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Prime Minister announces the Australian of the Year Awards in Canberra on the eve of Australia Day.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 179,
@@ -2419,7 +2591,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "On 25 April each year, Australians commemorate Anzac Day, honouring the service and sacrifice of military personnel.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 180,
@@ -2433,7 +2606,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Anzac Day is held on 25 April each year, commemorating the landing at Gallipoli in 1915.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 181,
@@ -2447,7 +2621,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Anzac stands for Australian and New Zealand Army Corps, which landed at Gallipoli in Turkey during World War I on 25 April 1915.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 182,
@@ -2461,7 +2636,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "On Anzac Day we commemorate the landing of the Australian and New Zealand Army Corps (ANZAC) at Gallipoli, Turkey during World War I.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 183,
@@ -2475,7 +2651,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Australian National Flag is the official flag of the nation, featuring the Union Jack, the Commonwealth Star, and the Southern Cross.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 184,
@@ -2489,7 +2666,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Australia has three official flags: the Australian National Flag, the Australian Aboriginal Flag, and the Torres Strait Islander Flag.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 185,
@@ -2503,7 +2681,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The three Australian flags are the Australian National Flag, the Australian Aboriginal Flag, and the Torres Strait Islander Flag.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 186,
@@ -2517,7 +2696,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Australian Aboriginal Flag is one of the three officially recognised flags of Australia.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 187,
@@ -2531,7 +2711,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Australian National Flag features the colours blue, white, and red.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 188,
@@ -2545,7 +2726,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The background colour of the Australian National Flag is blue.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 189,
@@ -2559,7 +2741,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Union Jack is in the top left corner of the Australian National Flag, representing Australia's history of British settlement.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 190,
@@ -2573,7 +2756,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Union Jack on the Australian National Flag represents our history of British settlement and the laws and institutions inherited as a result.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 191,
@@ -2587,7 +2771,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Commonwealth Star is located under the Union Jack on the Australian National Flag.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 192,
@@ -2601,7 +2786,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Commonwealth Star has seven points, representing the six states and one for the territories of Australia.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 193,
@@ -2615,7 +2801,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The seven points of the Commonwealth Star represent each of the six states and one for the territories of Australia.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 194,
@@ -2629,7 +2816,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Southern Cross on the Australian National Flag represents a group of stars that can be seen in the southern sky.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 195,
@@ -2643,7 +2831,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The three important parts of the Australian National Flag are the Union Jack, the Commonwealth Star, and the Southern Cross.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 196,
@@ -2657,7 +2846,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Australian Aboriginal Flag features the colours black, red, and yellow.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
   },
   {
     "id": 197,
@@ -2671,7 +2861,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The black top half of the Australian Aboriginal Flag represents the Aboriginal peoples of Australia.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 198,
@@ -2685,7 +2876,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The red bottom half of the Australian Aboriginal Flag represents the earth and the spiritual relationship to the land.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 199,
@@ -2699,7 +2891,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The yellow circle in the centre of the Australian Aboriginal Flag represents the sun, the giver of life.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
   },
   {
     "id": 200,
@@ -2713,7 +2906,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The top half of the Australian Aboriginal Flag is black, representing the Aboriginal peoples of Australia.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 201,
@@ -2727,7 +2921,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Torres Strait Islander Flag features the colours green, blue, black, and white.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 202,
@@ -2741,7 +2936,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The green stripes on the Torres Strait Islander Flag represent the land.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 203,
@@ -2755,7 +2951,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The blue panel on the Torres Strait Islander Flag represents the sea, which is central to the life of Torres Strait Islander people.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 204,
@@ -2769,7 +2966,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The black lines on the Torres Strait Islander Flag represent the Torres Strait Islander people.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 205,
@@ -2783,7 +2981,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The white dancer's headdress (dhari) on the Torres Strait Islander Flag is a symbol for all Torres Strait Islanders.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 206,
@@ -2797,7 +2996,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The colour white on the Torres Strait Islander Flag represents peace.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 207,
@@ -2811,7 +3011,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 208,
@@ -2825,7 +3026,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia, used to identify Commonwealth authority and property.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 209,
@@ -2839,7 +3041,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Commonwealth Coat of Arms symbolises the Commonwealth of Australia as the nation's official emblem.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 210,
@@ -2853,7 +3056,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Commonwealth Coat of Arms represents Australia's national unity, bringing together symbols of the six states and federation.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 211,
@@ -2867,7 +3071,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The Commonwealth Coat of Arms identifies the authority and property of the Commonwealth of Australia.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 212,
@@ -2881,7 +3086,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The shield in the centre of the Commonwealth Coat of Arms represents the six states and federation of Australia.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 213,
@@ -2895,7 +3101,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The kangaroo is native to Australia and appears on the Commonwealth Coat of Arms alongside the emu.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 214,
@@ -2909,7 +3116,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The emu is native to Australia and appears on the Commonwealth Coat of Arms alongside the kangaroo.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 215,
@@ -2923,7 +3131,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "A gold Commonwealth Star sits above the shield in the Commonwealth Coat of Arms.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 216,
@@ -2937,7 +3146,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The background of the Commonwealth Coat of Arms features the golden wattle, Australia's national flower.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 217,
@@ -2951,7 +3161,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The golden wattle is Australia's national flower, also featured in the background of the Commonwealth Coat of Arms.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 218,
@@ -2965,7 +3176,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Each of the states and territories of Australia has its own floral emblem, in addition to the national flower, the golden wattle.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
   },
   {
     "id": 219,
@@ -2979,7 +3191,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Australia's national colours are green and gold, derived from the colours of the golden wattle.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 220,
@@ -2993,7 +3206,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Australia's national colours of green and gold come from the colours of the golden wattle, Australia's national flower.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 221,
@@ -3007,7 +3221,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The opal is Australia's national gemstone. Australia produces about 95% of the world's opals.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 222,
@@ -3021,7 +3236,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "In Aboriginal legend, the colours of the opal were created from a rainbow touching the earth.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 223,
@@ -3035,7 +3251,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Australia's national anthem is \"Advance Australia Fair\", sung on occasions of national importance.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 224,
@@ -3049,7 +3266,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Australia's national anthem, \"Advance Australia Fair\", is sung on occasions of national importance.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 225,
@@ -3063,7 +3281,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "The first sentence of Australia's national anthem is \"Australians all let us rejoice\", from \"Advance Australia Fair\".",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 0
   },
   {
     "id": 301,
@@ -3077,7 +3296,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "At the citizenship ceremony, people pledge to share Australia's democratic beliefs and to respect its rights and liberties.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 302,
@@ -3091,7 +3311,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australia's system of government is a parliamentary democracy, where citizens vote for representatives to make decisions on their behalf.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 303,
@@ -3105,7 +3326,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "A parliamentary democracy is a system where citizens elect representatives to parliament to make laws and decisions on their behalf.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 1
   },
   {
     "id": 304,
@@ -3119,7 +3341,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "In Australia, the power of the government comes from the Australian people, who elect their representatives.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 305,
@@ -3133,7 +3356,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "In a parliamentary democracy, elected representatives must answer to the people who voted for them.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 306,
@@ -3147,7 +3371,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "All Australians are equal under the law, regardless of their background, wealth, or position.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 307,
@@ -3161,7 +3386,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Nobody is above the law in Australia. The rule of law applies equally to every person.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 308,
@@ -3175,7 +3401,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "The Rule of Law means that no person, group, or religious rule is above the law. Everyone must follow Australian law.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 2
   },
   {
     "id": 309,
@@ -3189,7 +3416,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australians are proud to live in a peaceful country with a stable system of government. Violence is not accepted as a means of change.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 310,
@@ -3203,7 +3431,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australia is a peaceful country with a stable system of government where all people are equal under the law.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 311,
@@ -3217,7 +3446,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "In Australia, change should occur through discussion, peaceful persuasion, and the democratic process, not through violence.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 312,
@@ -3231,7 +3461,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australia's democratic system is based on the principle that every individual has rights and equality under the law, regardless of background.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 313,
@@ -3245,7 +3476,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "An important part of being Australian is treating each other with dignity and respect, regardless of differences.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 314,
@@ -3259,7 +3491,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian freedoms include freedom of speech, expression, association, and religion for all people.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 315,
@@ -3273,7 +3506,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Freedom of speech means people can say and write what they think, and discuss their ideas with others.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 316,
@@ -3287,7 +3521,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Freedom of speech allows people to protest peacefully against government decisions and campaign to change laws.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 317,
@@ -3301,7 +3536,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Peacefully protesting against a government action is an example of exercising freedom of speech.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 318,
@@ -3315,7 +3551,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Freedom of expression means people can express their views through various forms including art, film, music, and literature.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 319,
@@ -3329,7 +3566,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Freedom of expression includes the right to meet in public or private places for social or political discussion.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 320,
@@ -3343,7 +3581,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Freedom of association is the right to form and join associations to pursue common goals with others.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 321,
@@ -3357,7 +3596,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "In Australia, nobody is forced to join any organisation. You decide what to join or not to join.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 322,
@@ -3371,7 +3611,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Freedom of association allows Australians to gather with others to protest against a government action or an organisation.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 323,
@@ -3385,7 +3626,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "People can protest peacefully in Australia, but they must not injure any person or damage property.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 324,
@@ -3399,7 +3641,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australia has a Judaeo-Christian religious heritage, though people of all faiths and none are welcome.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 325,
@@ -3413,7 +3656,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "The Australian government is secular, meaning it operates separately from any religious entities.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 326,
@@ -3427,7 +3671,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "The government and the law treat all citizens equally, regardless of their religion or beliefs.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 327,
@@ -3441,7 +3686,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "A secular government operates separately from churches or other religious entities, ensuring no religion has official influence over government.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 328,
@@ -3455,7 +3701,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australia has no official national religion. The government is secular and treats all religions equally.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 329,
@@ -3469,7 +3716,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "In Australia, people are free to follow any religion they choose, or they may choose not to follow a religion at all.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 330,
@@ -3483,7 +3731,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian law always prevails where there is a conflict between Australian law and a religious practice.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 331,
@@ -3497,7 +3746,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Men and women have equal rights in Australia. It is unlawful to discriminate against a person because of their gender.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 332,
@@ -3511,7 +3761,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "An example of equality in Australia is that men and women have equal rights under the law.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 333,
@@ -3525,7 +3776,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "A 'fair go' means that achievement in life should be based on talents, work, and effort, not on wealth or background.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 1
   },
   {
     "id": 334,
@@ -3539,7 +3791,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "In Australia, achievement in life should be a result of your talent, work, and effort rather than wealth or background.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 335,
@@ -3553,7 +3806,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australians believe in a fair society where everyone gets a 'fair go' regardless of their background.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 336,
@@ -3567,7 +3821,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "When you become an Australian citizen, you gain additional responsibilities and privileges beyond those of permanent residents.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 337,
@@ -3581,7 +3836,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "After becoming an Australian citizen, a person has the privilege to apply for an Australian passport and re-enter Australia freely.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 1
   },
   {
     "id": 338,
@@ -3595,7 +3851,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian citizens must vote in federal and state or territory elections, and in referendums. Voting is compulsory.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 339,
@@ -3609,7 +3866,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Defending Australia should the need arise is a responsibility of Australian citizenship.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 340,
@@ -3623,7 +3881,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Voting in federal and state or territory elections and referendums is a compulsory responsibility of Australian citizens.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 341,
@@ -3637,7 +3896,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Applying for work in the Australian Public Service or the Australian Defence Force is a privilege of Australian citizenship.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 342,
@@ -3651,7 +3911,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Only Australian citizens can ask for consular assistance from an Australian official while overseas.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 343,
@@ -3665,7 +3926,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian citizens can receive consular assistance from an Australian official if they need help while overseas.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 344,
@@ -3679,7 +3941,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian citizens can apply for their child born overseas to become an Australian citizen by descent.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 345,
@@ -3693,7 +3956,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Government representatives make laws to maintain an orderly, free, and safe society for all Australians.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 346,
@@ -3707,7 +3971,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "All Australian citizens and other people in Australia must obey Australian laws.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 1
   },
   {
     "id": 347,
@@ -3721,7 +3986,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Voting is compulsory for Australian citizens aged 18 years or over in federal and state or territory elections.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 1
   },
   {
     "id": 348,
@@ -3735,7 +4001,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian citizens can have their say in how the country is governed by voting in elections.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 349,
@@ -3749,7 +4016,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "This statement is false. Voting is compulsory for all Australian citizens aged 18 years or over.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 350,
@@ -3763,7 +4031,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "A referendum is a vote to change the Australian Constitution. It requires a majority of voters in a majority of states to pass.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 351,
@@ -3777,7 +4046,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian citizens aged 18 years or over are required to vote in federal and state or territory elections, and in referendums.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 352,
@@ -3791,7 +4061,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Service in the Australian Defence Force is voluntary. However, all citizens share the responsibility to defend Australia if needed.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 1
   },
   {
     "id": 353,
@@ -3805,7 +4076,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "All Australian citizens should be committed to joining together to defend the nation and its way of life if the need arises.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 354,
@@ -3819,7 +4091,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian citizens aged 18 years or over have the responsibility to serve on a jury if called to do so.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 1
   },
   {
     "id": 355,
@@ -3833,7 +4106,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "A jury is a group of ordinary Australian men and women who listen to evidence in a court case and decide if a person is guilty or not guilty.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 1
   },
   {
     "id": 356,
@@ -3847,7 +4121,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian citizens who are on the electoral roll can be called to serve on a jury.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 1
   },
   {
     "id": 357,
@@ -3861,7 +4136,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "The purpose of jury service is to ensure that the court system is open and fair for all people.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 1
   },
   {
     "id": 358,
@@ -3875,7 +4151,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Only Australian citizens can apply for work in the Australian Public Service.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 359,
@@ -3889,7 +4166,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "The Australian Defence Force is made up of the Army, Navy, and Air Force.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 360,
@@ -3903,7 +4181,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian citizens and permanent residents under certain conditions can apply for work in the Australian Defence Force.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 361,
@@ -3917,7 +4196,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Any Australian citizen who is aged 18 years or over can seek election to parliament at the federal, state, or territory level.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 362,
@@ -3931,7 +4211,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Serving in an Australian parliament is considered an honor and a serious responsibility.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 363,
@@ -3945,7 +4226,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian citizens have the right to live freely in Australia and can re-enter the country at any time.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 364,
@@ -3959,7 +4241,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian citizens have the privilege to apply for an Australian passport and do not need a visa to return to Australia.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 365,
@@ -3973,7 +4256,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian citizens can apply for an Australian passport. Permanent residents cannot hold an Australian passport.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 366,
@@ -3987,7 +4271,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australia is represented in many countries through an embassy, high commission, or consulate.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 367,
@@ -4001,7 +4286,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian citizens can seek consular help overseas for serious matters like accidents, serious illness, or death.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 368,
@@ -4015,7 +4301,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian government officials overseas can issue emergency passports to Australian citizens who need them.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 369,
@@ -4029,7 +4316,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "When in another country, Australian citizens must obey the laws of that country.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 370,
@@ -4043,7 +4331,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "The Australian government encourages all citizens to participate in society and contribute to the community.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 371,
@@ -4057,7 +4346,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Joining neighbourhood and local community organisations is a way for citizens to actively participate in society.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 372,
@@ -4071,7 +4361,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Volunteering to do social and community work is an important way for citizens to actively participate in Australian society.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 373,
@@ -4085,7 +4376,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Paying tax is an important way to directly contribute to the Australian community and fund essential services.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 374,
@@ -4099,7 +4391,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "In Australia, tax applies to earnings from a job, a business, or investment. No type of earnings is exempt.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 375,
@@ -4113,7 +4406,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Many of the benefits that Australians enjoy, such as healthcare, education, and infrastructure, are made possible through taxes.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 376,
@@ -4127,7 +4421,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Social security is one of the many services that taxes are spent on to support the Australian community.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 377,
@@ -4141,7 +4436,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "Australian citizens support the government to provide important services by working and paying taxes.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 0
   },
   {
     "id": 378,
@@ -4155,7 +4451,8 @@
     "category": "democratic_beliefs",
     "isValuesQuestion": false,
     "explanation": "In Australia, federal, state and territory governments, and local councils all collect taxes to pay for services.",
-    "source": "Our Common Bond - Democratic Beliefs"
+    "source": "Our Common Bond - Democratic Beliefs",
+    "recallCount": 1
   },
   {
     "id": 501,
@@ -4169,7 +4466,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "At the citizenship ceremony, new citizens pledge to uphold and obey the laws of Australia.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 502,
@@ -4183,7 +4481,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Australia has a parliamentary democracy, where citizens elect representatives to parliament.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 503,
@@ -4197,7 +4496,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Australian citizens aged 18 years or over must enrol to vote in elections and referenda.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 504,
@@ -4211,7 +4511,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Citizens have a say by voting for representatives in parliament who make decisions on their behalf.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 505,
@@ -4225,7 +4526,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "If you are not correctly enrolled, you will not be able to vote in an election.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 506,
@@ -4239,7 +4541,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Being on the electoral roll allows you to vote in Australian elections and referenda.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 507,
@@ -4253,7 +4556,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "AEC stands for Australian Electoral Commission, which manages federal elections.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 508,
@@ -4267,7 +4571,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The AEC is a Commonwealth agency responsible for conducting federal elections and referendums.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 509,
@@ -4281,7 +4586,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The AEC maintains the Commonwealth electoral roll independently of political influence.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 510,
@@ -4295,7 +4601,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Australian Electoral Commission conducts federal elections and referendums and maintains the electoral roll.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 511,
@@ -4309,7 +4616,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The AEC helps voters by conducting federal elections and referendums in a fair and transparent manner.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 512,
@@ -4323,7 +4631,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Voting in Australia is done by secret ballot, ensuring privacy and freedom of choice.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 513,
@@ -4337,7 +4646,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The AEC operates independently and cannot be influenced by political parties or government officials.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 514,
@@ -4351,7 +4661,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "In Australian elections, people are free and safe to vote for any candidate through secret ballot.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   },
   {
     "id": 515,
@@ -4365,7 +4676,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Secret ballot means no one can know who you voted for unless you choose to share that information.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   },
   {
     "id": 516,
@@ -4379,7 +4691,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "No one can force you to reveal your vote. Voting by secret ballot protects your privacy.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 517,
@@ -4393,7 +4706,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Voting is compulsory in Australia. If you do not vote without a valid reason, you may be fined.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 518,
@@ -4407,7 +4721,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Compulsory voting ensures all citizens have a say in who governs and represents them in parliament.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 519,
@@ -4421,7 +4736,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Voting gives every citizen a say in how Australia is governed through their elected representatives.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 520,
@@ -4435,7 +4751,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "You can contact your elected representative to raise concerns about government policy.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 521,
@@ -4449,7 +4766,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Citizens can suggest law changes by communicating with their elected representatives at any time.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 522,
@@ -4463,7 +4781,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "All Australians can have a say in forming laws and policies through their elected representatives.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 523,
@@ -4477,7 +4796,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Before 1901, Australia consisted of six separate, self-governing British colonies.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 524,
@@ -4491,7 +4811,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Each colony had its own constitution and its own laws relating to specific matters before federation.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 525,
@@ -4505,7 +4826,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Trade and transport difficulties between colonies were a key reason for wanting federation.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 526,
@@ -4519,7 +4841,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The emerging Australian national identity was a driving force behind the push for federation.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 527,
@@ -4533,7 +4856,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Australian colonies united into a federation on 1 January 1901.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 528,
@@ -4547,7 +4871,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "When the colonies united, they formed the Commonwealth of Australia.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 529,
@@ -4561,7 +4886,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Commonwealth of Australia Constitution Act 1900 sets out the basic rules for Australian government.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 530,
@@ -4575,7 +4901,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Australian Commonwealth refers to the federation of states and territories.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 531,
@@ -4589,7 +4916,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "On 1 January 1901, the colonies federated to become one independent nation.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 532,
@@ -4603,7 +4931,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Australian Constitution came into effect on 1 January 1901 when federation occurred.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 533,
@@ -4617,7 +4946,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Commonwealth of Australia is an independent nation formed through federation in 1901.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 534,
@@ -4631,7 +4961,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The High Court of Australia was established by the Australian Constitution.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 535,
@@ -4645,7 +4976,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Parliament consists of two houses: the House of Representatives and the Senate.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 536,
@@ -4659,7 +4991,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The High Court has the ultimate power to apply and interpret Australian laws.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 537,
@@ -4673,7 +5006,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Constitution can only be changed through a special vote called a referendum.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 538,
@@ -4687,7 +5021,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Australian people can change the Constitution by voting in a referendum.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 539,
@@ -4701,7 +5036,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A referendum is a special vote held to change the Australian Constitution.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 540,
@@ -4715,7 +5051,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The 1967 Referendum saw over 90% vote Yes to count Aboriginal peoples in the Census.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 541,
@@ -4729,7 +5066,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A double majority is needed: a majority of voters nationally and in a majority of states.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 542,
@@ -4743,7 +5081,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A double majority requires a majority of voters in a majority of states AND a majority of all voters nationally.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 543,
@@ -4757,7 +5096,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The three types of power in Australia are legislative, executive and judicial.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 544,
@@ -4771,7 +5111,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The three powers of government are written into the Australian Constitution to ensure separation of powers.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 545,
@@ -4785,7 +5126,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The separation of powers prevents any single person or group from holding all government power.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 546,
@@ -4799,7 +5141,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Parliament has the legislative power to make and change laws.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 547,
@@ -4813,7 +5156,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Legislative power is the power to make and change laws, held by Parliament.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 548,
@@ -4827,7 +5171,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Elected representatives in Parliament have the power to make laws on behalf of the people.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 549,
@@ -4841,7 +5186,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The judicial arm of government, through courts and judges, interprets and applies laws.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 550,
@@ -4855,7 +5201,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Parliament is made up of representatives elected by the people of Australia.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 551,
@@ -4869,7 +5216,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The legislative arm (Parliament) has the power to make and change laws.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 552,
@@ -4883,7 +5231,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Executive power is the power to put laws into practice, held by government ministers and the PM.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 553,
@@ -4897,7 +5246,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The PM, government ministers and the Governor-General hold executive power to implement laws.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 554,
@@ -4911,7 +5261,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Executive includes the Prime Minister, government ministers and the Governor-General.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 555,
@@ -4925,7 +5276,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The executive arm of government puts laws into practice.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 556,
@@ -4939,7 +5291,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Ministers are responsible for government departments within their portfolio area.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 557,
@@ -4953,7 +5306,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Judicial power is the power to interpret and apply the law through courts and judges.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 558,
@@ -4967,7 +5321,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Judges have the judicial power to interpret and apply the law independently.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 559,
@@ -4981,7 +5336,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Courts and judges are independent of parliament and government to ensure impartial justice.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 560,
@@ -4995,7 +5351,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Queen does not have a day-to-day role in Australian government; her powers are delegated to the Governor-General.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 561,
@@ -5009,7 +5366,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Governor-General acts independently of all political parties in carrying out duties.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   },
   {
     "id": 562,
@@ -5023,7 +5381,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Queen appoints the Governor-General on the advice of the Australian Prime Minister.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   },
   {
     "id": 563,
@@ -5037,7 +5396,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "In each state, a Governor represents the Queen.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 564,
@@ -5051,7 +5411,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Australia's system of government is a parliamentary democracy.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 565,
@@ -5065,7 +5426,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "In a constitutional monarchy, the monarch is head of state but must act within the constitution.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 566,
@@ -5079,7 +5441,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Queen of Australia is the Head of State.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   },
   {
     "id": 567,
@@ -5093,7 +5456,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Since the Queen does not live in Australia, her powers are delegated to the Governor-General.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 568,
@@ -5107,7 +5471,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Australia's system reflects British and North American traditions combined in a uniquely Australian way.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 569,
@@ -5121,7 +5486,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Prime Minister is the leader of the Australian Government.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 570,
@@ -5135,7 +5501,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Governor-General acts as Commander-in-Chief of the Australian Defence Force.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   },
   {
     "id": 571,
@@ -5149,7 +5516,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Governor-General signs all Bills passed by Parliament into law (Royal Assent).",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   },
   {
     "id": 572,
@@ -5163,7 +5531,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Royal Assent is when the Governor-General signs Bills passed by Parliament into law.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 573,
@@ -5177,7 +5546,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Governor-General signs all Bills into law through the process of Royal Assent.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 574,
@@ -5191,7 +5561,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Reserve Powers are special powers the Governor-General can only use in specific circumstances.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 575,
@@ -5205,7 +5576,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Governor-General starts the process for a federal election by dissolving Parliament.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 576,
@@ -5219,7 +5591,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Governor-General acts as Commander-in-Chief of the Australian Defence Force.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 577,
@@ -5233,7 +5606,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Governor-General represents the Head of State (the Queen) in Australia.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 578,
@@ -5247,7 +5621,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Each state has a Governor who represents the Head of State.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 579,
@@ -5261,7 +5636,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Prime Minister is the leader of the Australian Government.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 580,
@@ -5275,7 +5651,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Premier is the leader of a state government.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 581,
@@ -5289,7 +5666,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Chief Minister is the leader of a territory government.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 582,
@@ -5303,7 +5681,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A Government Minister is an MP chosen by a government leader to be responsible for a government area.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 583,
@@ -5317,7 +5696,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Government Ministers are chosen by the government leader (Prime Minister or Premier).",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 584,
@@ -5331,7 +5711,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Government Ministers are responsible for a specific area of government (portfolio).",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 585,
@@ -5345,7 +5726,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "An elected representative of the people in Parliament is called a Member of Parliament (MP).",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 586,
@@ -5359,7 +5741,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "MP stands for Member of Parliament.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 587,
@@ -5373,7 +5756,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A Member of Parliament is an elected representative of the people in Australian or state parliament.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 588,
@@ -5387,7 +5771,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Members of Parliament are elected by the Australian people through voting.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 589,
@@ -5401,7 +5786,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A Senator is an elected representative of a state or territory in the Australian Parliament.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 590,
@@ -5415,7 +5801,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A Senator represents a state or territory in the Australian Parliament (Senate).",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 591,
@@ -5429,7 +5816,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The leader of a local government is called a Mayor or Shire President.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   },
   {
     "id": 592,
@@ -5443,7 +5831,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A Mayor or Shire President is the leader of a local government.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   },
   {
     "id": 593,
@@ -5457,7 +5846,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A Councillor is an elected member of a local council.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 594,
@@ -5471,7 +5861,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "An elected member of a local council is called a Councillor.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 595,
@@ -5485,7 +5876,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Australian government is also officially known as the Commonwealth Government.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 596,
@@ -5499,7 +5891,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Australian government is also officially known as the Federal Government.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 597,
@@ -5513,7 +5906,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Australian Parliament has two Houses: the House of Representatives and the Senate.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 598,
@@ -5527,7 +5921,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The two Houses are the House of Representatives (Lower House) and the Senate (Upper House).",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 599,
@@ -5541,7 +5936,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Australian people elect members of both Houses of Parliament through voting.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 600,
@@ -5555,7 +5951,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Members of the Australian Parliament are elected at federal elections.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 601,
@@ -5569,7 +5966,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "In a federal election, you vote for members of both the House of Representatives and the Senate.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 602,
@@ -5583,7 +5981,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The House of Representatives is part of the Australian Parliament.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 603,
@@ -5597,7 +5996,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The House of Representatives is also known as the Lower House.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 604,
@@ -5611,7 +6011,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Australia is divided into federal electorates for the House of Representatives.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 605,
@@ -5625,7 +6026,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Members of Parliament (MPs) represent Australians in the House of Representatives.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 606,
@@ -5639,7 +6041,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The number of MPs is based on the population of each state or territory.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 607,
@@ -5653,7 +6056,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Over 150 members are elected to the House of Representatives.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 608,
@@ -5667,7 +6071,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The House of Representatives considers, debates and votes on proposed new laws or changes.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 609,
@@ -5681,7 +6086,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Members of the House of Representatives discuss matters of national importance.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 610,
@@ -5695,7 +6101,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Senate is also known as the Upper House.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 611,
@@ -5709,7 +6116,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Senators are elected by voters in each state and territory.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 612,
@@ -5723,7 +6131,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "States are equally represented in the Senate regardless of their size or population.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 613,
@@ -5737,7 +6146,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "There are 76 senators in total in the Australian Parliament.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 614,
@@ -5751,7 +6161,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Each state has 12 senators in the Senate.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 615,
@@ -5765,7 +6176,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Each territory has 2 senators in the Senate.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 616,
@@ -5779,7 +6191,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Representatives in the Senate are called Senators.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 617,
@@ -5793,7 +6206,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Senators consider, debate and vote on proposed legislation.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 618,
@@ -5807,7 +6221,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Senators discuss matters of national importance in the Senate.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 619,
@@ -5821,7 +6236,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Each Australian state has its own constitution and parliament.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 620,
@@ -5835,7 +6251,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "State and territory governments are based in their respective capital cities.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 621,
@@ -5849,7 +6266,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The leader of a state government is called the Premier.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 622,
@@ -5863,7 +6281,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The leader of a territory government is called the Chief Minister.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 623,
@@ -5877,7 +6296,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "State governments operate in a similar way to the Australian (federal) Government.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 624,
@@ -5891,7 +6311,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A Governor represents the Queen in each Australian state.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 625,
@@ -5905,7 +6326,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "An Administrator represents the Queen in the Northern Territory.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 626,
@@ -5919,7 +6341,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Administrator of the Northern Territory is appointed by the Governor-General.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 627,
@@ -5933,7 +6356,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "An Administrator has roles and responsibilities similar to those of a state Governor.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 628,
@@ -5947,7 +6371,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Both states and self-governing territories have the power to pass their own laws.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 629,
@@ -5961,7 +6386,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "States and the Northern Territory are divided into local government areas.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 630,
@@ -5975,7 +6401,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A Shire is an example of a local government area.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 631,
@@ -5989,7 +6416,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Local councils plan and deliver services to their local communities.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 632,
@@ -6003,7 +6431,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Taxation is a responsibility of the Australian (federal) Government.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 633,
@@ -6017,7 +6446,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Hospitals and health services are a responsibility of state and territory governments.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 634,
@@ -6031,7 +6461,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Street signs and traffic controls are responsibilities of local governments.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 635,
@@ -6045,7 +6476,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Social planning is a responsibility of local governments.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 636,
@@ -6059,7 +6491,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Generally each level of government provides different services, though some may overlap.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   },
   {
     "id": 637,
@@ -6073,7 +6506,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A political party is a group sharing similar ideas about how a country should be governed.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 638,
@@ -6087,7 +6521,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Political party members work together to have their party's ideas turned into laws.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 639,
@@ -6101,7 +6536,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Liberal Party of Australia is one of the main political parties.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 640,
@@ -6115,7 +6551,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Nationals is one of the main political parties in Australia.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 641,
@@ -6129,7 +6566,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Parliamentarians who do not belong to any political party are called independents.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 642,
@@ -6143,7 +6581,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Independents are members of parliament who do not belong to any political party.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 643,
@@ -6157,7 +6596,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Anyone is free to join a political party in Australia.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 644,
@@ -6171,7 +6611,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The government is formed by the party or coalition with the majority in the House of Representatives.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 645,
@@ -6185,7 +6626,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The leader of the majority party or coalition in the House of Representatives becomes PM.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 646,
@@ -6199,7 +6641,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Opposition is the party or coalition with the second largest number of members in the House.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 647,
@@ -6213,7 +6656,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Opposition is the second largest party or coalition in the House of Representatives.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 648,
@@ -6227,7 +6671,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Prime Minister recommends MPs or Senators to become ministers.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 649,
@@ -6241,7 +6686,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Governor-General approves the appointment of the Prime Minister and ministers.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 650,
@@ -6255,7 +6701,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Government ministers are each responsible for a specific area of government (portfolio).",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 651,
@@ -6269,7 +6716,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A portfolio is the specific area of government that a minister is responsible for.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 652,
@@ -6283,7 +6731,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Cabinet is made up of ministers with the most important portfolios.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 653,
@@ -6297,7 +6746,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Cabinet is the key decision-making body of the Australian Government.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 654,
@@ -6311,7 +6761,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Australian Parliament has the power to make or change laws for the benefit of the nation.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 655,
@@ -6325,7 +6776,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A Bill is a proposal to introduce a new law or change an existing law.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 656,
@@ -6339,7 +6791,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A Bill goes through 4 steps to become a law: proposal, debate in both Houses, and Royal Assent.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 657,
@@ -6353,7 +6806,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Any member of the Australian Parliament can propose to introduce or change a law.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 658,
@@ -6367,7 +6821,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "After a Bill is proposed, both Houses consider, debate and vote on it.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 659,
@@ -6381,7 +6836,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The House of Representatives and the Senate consider, debate and vote on Bills.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 660,
@@ -6395,7 +6851,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A Bill goes to the Governor-General when a majority in each House agrees to it.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 661,
@@ -6409,7 +6866,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Once both Houses agree, the Bill goes to the Governor-General for Royal Assent.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 662,
@@ -6423,7 +6881,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A Bill becomes law when the Governor-General signs it (Royal Assent).",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 663,
@@ -6437,7 +6896,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Royal Assent is when the Governor-General signs a Bill into law.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 664,
@@ -6451,7 +6911,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Courts decide if a person has broken the law and determine the appropriate penalty.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 665,
@@ -6465,7 +6926,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Courts base their decisions on the evidence presented before them.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 666,
@@ -6479,7 +6941,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The judge or magistrate is the highest authority in the court.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 667,
@@ -6493,7 +6956,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A court decides if a person has broken the law and determines the penalty.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 668,
@@ -6507,7 +6971,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Judges and magistrates are independent and no one can direct their decisions.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 669,
@@ -6521,7 +6986,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Judges and magistrates are appointed by the Government.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 670,
@@ -6535,7 +7001,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "In Australia, people are presumed innocent until proven guilty in court.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 671,
@@ -6549,7 +7016,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Everyone has the right to be represented by a lawyer in court in Australia.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 672,
@@ -6563,7 +7031,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "In some cases, a court will use a jury to decide if a person has broken the law.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 673,
@@ -6577,7 +7046,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A jury's role is to decide whether a person is innocent or guilty.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   },
   {
     "id": 674,
@@ -6591,7 +7061,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "A jury is made up of ordinary Australian citizens randomly chosen from the general population.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 675,
@@ -6605,7 +7076,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The judge explains the law to the jury during a trial.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 676,
@@ -6619,7 +7091,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "If the jury finds a person guilty, the judge decides the penalty.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 677,
@@ -6633,7 +7106,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The police maintain peace and order in the community.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 678,
@@ -6647,7 +7121,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Protecting life and property is part of the police's job.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 679,
@@ -6661,7 +7136,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Police can arrest someone they believe has broken the law and bring them before a court.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 680,
@@ -6675,7 +7151,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The court, not the police or government, decides if a person is guilty.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 681,
@@ -6689,7 +7166,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "In Australia, the police and the community generally have a good relationship.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 682,
@@ -6703,7 +7181,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "State and territory police forces deal with crimes under state and territory laws.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 683,
@@ -6717,7 +7196,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Australia's national police force is the Australian Federal Police (AFP).",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 684,
@@ -6731,7 +7211,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Australian Federal Police is responsible for general police work in the ACT.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 685,
@@ -6745,7 +7226,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Australian Federal Police investigates crimes against federal laws.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 686,
@@ -6759,7 +7241,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "You can report crimes and seek assistance from your local police.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 687,
@@ -6773,7 +7256,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "It is never acceptable to offer a bribe to a police officer in Australia. It is a crime.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 688,
@@ -6787,7 +7271,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "There is no excuse for breaking the law in Australia, including not knowing a law.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 689,
@@ -6801,7 +7286,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Sexual assault is a very serious crime throughout all of Australia.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 690,
@@ -6815,7 +7301,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Everyone in Australia has the right to experience positive and safe relationships.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 691,
@@ -6829,7 +7316,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Violence towards another person is regarded as a very serious crime in Australia.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 692,
@@ -6843,7 +7331,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Domestic or family violence refers to violence within the home and within marriage.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 693,
@@ -6857,7 +7346,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Violence is illegal in Australia, including within the home and marriage.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 694,
@@ -6871,7 +7361,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Anyone who commits domestic violence can go to jail, regardless of gender.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 695,
@@ -6885,7 +7376,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "State and territory governments control road and traffic rules in Australia.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 696,
@@ -6899,7 +7391,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Breaking traffic laws can result in fines or imprisonment depending on the severity.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 697,
@@ -6913,7 +7406,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The car must be registered as a condition of being allowed to drive in Australia.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 698,
@@ -6927,7 +7421,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Everyone traveling in a car must wear a seatbelt in Australia.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   },
   {
     "id": 699,
@@ -6941,7 +7436,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Using a hand-held mobile device while driving is against the law in Australia.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 0
   },
   {
     "id": 9001,
@@ -6955,7 +7451,8 @@
     "category": "australia_and_its_people",
     "isValuesQuestion": false,
     "explanation": "Adelaide is the capital city of South Australia.",
-    "source": "Our Common Bond - Australia and Its People"
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
   },
   {
     "id": 9002,
@@ -6969,7 +7466,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Since the Marriage Amendment (Definition and Religious Freedoms) Act 2017, two people of any sex or gender can legally marry in Australia.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
   },
   {
     "id": 9003,
@@ -6983,7 +7481,8 @@
     "category": "australian_values",
     "isValuesQuestion": true,
     "explanation": "Australia is one of the most culturally diverse countries in the world, and this diversity is celebrated as one of its greatest strengths.",
-    "source": "Our Common Bond - Australian Values"
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
   },
   {
     "id": 9004,
@@ -6997,7 +7496,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "The Governor-General is appointed as the representative of the King of Australia, Australia's Head of State, on the advice of the Prime Minister.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   },
   {
     "id": 9005,
@@ -7011,7 +7511,8 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Members of Parliament are elected by Australian citizens aged 18 or over who are enrolled on the electoral roll. Voting is compulsory.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   },
   {
     "id": 9006,
@@ -7025,6 +7526,82 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Australia has three levels of government: federal (Australian Government), state or territory governments, and local councils.",
-    "source": "Our Common Bond - Government and the Law"
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
+  },
+  {
+    "id": 9007,
+    "question": "What is the capital city of Western Australia?",
+    "options": [
+      "Perth",
+      "Adelaide",
+      "Brisbane"
+    ],
+    "correctAnswer": 0,
+    "category": "australia_and_its_people",
+    "isValuesQuestion": false,
+    "explanation": "Perth is the capital city of Western Australia.",
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
+  },
+  {
+    "id": 9008,
+    "question": "Which is the smallest state of Australia?",
+    "options": [
+      "Victoria",
+      "Tasmania",
+      "South Australia"
+    ],
+    "correctAnswer": 1,
+    "category": "australia_and_its_people",
+    "isValuesQuestion": false,
+    "explanation": "Tasmania is the smallest state of Australia and is separated from the mainland by Bass Strait.",
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
+  },
+  {
+    "id": 9009,
+    "question": "Which of these is a responsibility of the Australian (federal) Government?",
+    "options": [
+      "Local roads, parks and rubbish collection",
+      "Public schools and hospitals",
+      "Defence and taxation"
+    ],
+    "correctAnswer": 2,
+    "category": "government_and_law",
+    "isValuesQuestion": false,
+    "explanation": "Defence, taxation, immigration, citizenship, foreign affairs and trade are responsibilities of the Australian (federal) Government.",
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
+  },
+  {
+    "id": 9010,
+    "question": "What ballot system is used in Australian elections?",
+    "options": [
+      "Open public voting",
+      "A secret ballot",
+      "Voting by phone only"
+    ],
+    "correctAnswer": 1,
+    "category": "government_and_law",
+    "isValuesQuestion": false,
+    "explanation": "Australians vote by secret ballot — nobody can see who you voted for, which protects your freedom to choose.",
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
+  },
+  {
+    "id": 9011,
+    "question": "As an Australian citizen, what right do you have regarding travel?",
+    "options": [
+      "You may only leave Australia with government permission",
+      "You have the right to leave Australia and re-enter freely",
+      "You can only travel within Australia"
+    ],
+    "correctAnswer": 1,
+    "category": "government_and_law",
+    "isValuesQuestion": false,
+    "explanation": "Australian citizens have the right to leave Australia and return at any time without needing a resident return visa.",
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
   }
 ]

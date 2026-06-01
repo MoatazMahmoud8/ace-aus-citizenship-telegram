@@ -89,7 +89,19 @@ def pick_question(bank: list[dict], sent_ids: set[int]) -> dict | None:
 
 def send_quiz_poll(token: str, chat_id: str, q: dict) -> dict:
     explanation = q["explanation"]
-    if len(explanation) > POLL_EXPLANATION_LIMIT:
+    recall = int(q.get("recallCount", 0))
+    if recall > 0:
+        # Prefix a "frequently asked" badge so members can spot known-hot
+        # questions when the answer is revealed.
+        badge = f"\U0001F525 Frequently asked in recent tests (x{recall}). "
+        budget = POLL_EXPLANATION_LIMIT - len(badge)
+        if budget < 20:
+            badge = "\U0001F525 "
+            budget = POLL_EXPLANATION_LIMIT - len(badge)
+        if len(explanation) > budget:
+            explanation = explanation[: budget - 1] + "\u2026"
+        explanation = badge + explanation
+    elif len(explanation) > POLL_EXPLANATION_LIMIT:
         explanation = explanation[: POLL_EXPLANATION_LIMIT - 1] + "\u2026"
 
     url = f"https://api.telegram.org/bot{token}/sendPoll"
