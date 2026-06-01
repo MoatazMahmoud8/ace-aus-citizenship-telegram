@@ -132,7 +132,7 @@
     "isValuesQuestion": true,
     "explanation": "Australia's system of government is a parliamentary democracy, where citizens vote for representatives.",
     "source": "Our Common Bond - Australian Values",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 10,
@@ -192,7 +192,7 @@
     "isValuesQuestion": true,
     "explanation": "Government power comes from the people because Australian citizens vote for their parliamentary representatives.",
     "source": "Our Common Bond - Australian Values",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 14,
@@ -312,7 +312,7 @@
     "isValuesQuestion": true,
     "explanation": "Australians have the right to peacefully protest against government actions as part of their democratic freedoms.",
     "source": "Our Common Bond - Australian Values",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 22,
@@ -327,7 +327,7 @@
     "isValuesQuestion": true,
     "explanation": "Tolerance of peaceful public protest is an essential part of democracy and a key Australian value.",
     "source": "Our Common Bond - Australian Values",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 23,
@@ -492,7 +492,7 @@
     "isValuesQuestion": true,
     "explanation": "Australia has no official national religion. It is a secular country with freedom of religion.",
     "source": "Our Common Bond - Australian Values",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 34,
@@ -597,7 +597,7 @@
     "isValuesQuestion": true,
     "explanation": "Australian society values the equal rights of all people and has laws to protect against discrimination.",
     "source": "Our Common Bond - Australian Values",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 41,
@@ -657,7 +657,7 @@
     "isValuesQuestion": true,
     "explanation": "Both men and women have equal rights to vote and stand for Parliament in Australia.",
     "source": "Our Common Bond - Australian Values",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 45,
@@ -702,7 +702,7 @@
     "isValuesQuestion": true,
     "explanation": "Gender equality means men and women should have equal opportunity to pursue their goals and interests.",
     "source": "Our Common Bond - Australian Values",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 48,
@@ -747,7 +747,7 @@
     "isValuesQuestion": true,
     "explanation": "Either a husband or a wife has the right to apply for divorce, reflecting gender equality in Australia.",
     "source": "Our Common Bond - Australian Values",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 51,
@@ -852,7 +852,7 @@
     "isValuesQuestion": true,
     "explanation": "New migrants can become leaders through their hard work and enterprise, reflecting the Australian \"fair go\".",
     "source": "Our Common Bond - Australian Values",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 58,
@@ -1452,7 +1452,7 @@
     "isValuesQuestion": false,
     "explanation": "Aboriginal and Torres Strait Islander peoples are Australia's first inhabitants, with the oldest continuous cultures in the world.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 104,
@@ -1872,7 +1872,7 @@
     "isValuesQuestion": false,
     "explanation": "In 1901, the separate colonies united into a federation of states called the Commonwealth of Australia under a new Constitution.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 132,
@@ -2052,7 +2052,7 @@
     "isValuesQuestion": false,
     "explanation": "Canberra is Australia's capital city, located in the Australian Capital Territory between Sydney and Melbourne.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 144,
@@ -2067,7 +2067,7 @@
     "isValuesQuestion": false,
     "explanation": "Darwin is the capital of the Northern Territory, located on Australia's northern coast.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 145,
@@ -2112,7 +2112,7 @@
     "isValuesQuestion": false,
     "explanation": "Sydney is Australia's largest city, located in New South Wales. It is known for its iconic Harbour Bridge and Opera House.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 148,
@@ -2262,7 +2262,7 @@
     "isValuesQuestion": false,
     "explanation": "Western Australia is Australia's largest state, covering about one-third of the Australian continent.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 158,
@@ -2367,7 +2367,7 @@
     "isValuesQuestion": false,
     "explanation": "The Australian Capital Territory (ACT) is situated between Sydney and Melbourne, chosen as a compromise location for the national capital.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 165,
@@ -2382,7 +2382,7 @@
     "isValuesQuestion": false,
     "explanation": "Parliament House and the High Court of Australia are located in Canberra, the nation's capital city in the Australian Capital Territory.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 166,
@@ -2532,7 +2532,7 @@
     "isValuesQuestion": false,
     "explanation": "Australia Day represents the anniversary of the arrival of the First Fleet from Great Britain on 26 January 1788.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 176,
@@ -2607,7 +2607,7 @@
     "isValuesQuestion": false,
     "explanation": "Anzac Day is held on 25 April each year, commemorating the landing at Gallipoli in 1915.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 181,
@@ -2757,7 +2757,7 @@
     "isValuesQuestion": false,
     "explanation": "The Union Jack on the Australian National Flag represents our history of British settlement and the laws and institutions inherited as a result.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 191,
@@ -2802,7 +2802,7 @@
     "isValuesQuestion": false,
     "explanation": "The seven points of the Commonwealth Star represent each of the six states and one for the territories of Australia.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 194,
@@ -2892,7 +2892,7 @@
     "isValuesQuestion": false,
     "explanation": "The yellow circle in the centre of the Australian Aboriginal Flag represents the sun, the giver of life.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 200,
@@ -3027,7 +3027,7 @@
     "isValuesQuestion": false,
     "explanation": "The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia, used to identify Commonwealth authority and property.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 0
+    "recallCount": 2
   },
   {
     "id": 209,
@@ -3177,7 +3177,7 @@
     "isValuesQuestion": false,
     "explanation": "Each of the states and territories of Australia has its own floral emblem, in addition to the national flower, the golden wattle.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 219,
@@ -3192,7 +3192,7 @@
     "isValuesQuestion": false,
     "explanation": "Australia's national colours are green and gold, derived from the colours of the golden wattle.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 220,
@@ -3252,7 +3252,7 @@
     "isValuesQuestion": false,
     "explanation": "Australia's national anthem is \"Advance Australia Fair\", sung on occasions of national importance.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 224,
@@ -3327,7 +3327,7 @@
     "isValuesQuestion": false,
     "explanation": "A parliamentary democracy is a system where citizens elect representatives to parliament to make laws and decisions on their behalf.",
     "source": "Our Common Bond - Democratic Beliefs",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 304,
@@ -3402,7 +3402,7 @@
     "isValuesQuestion": false,
     "explanation": "The Rule of Law means that no person, group, or religious rule is above the law. Everyone must follow Australian law.",
     "source": "Our Common Bond - Democratic Beliefs",
-    "recallCount": 2
+    "recallCount": 3
   },
   {
     "id": 309,
@@ -3672,7 +3672,7 @@
     "isValuesQuestion": false,
     "explanation": "The government and the law treat all citizens equally, regardless of their religion or beliefs.",
     "source": "Our Common Bond - Democratic Beliefs",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 327,
@@ -3777,7 +3777,7 @@
     "isValuesQuestion": false,
     "explanation": "A 'fair go' means that achievement in life should be based on talents, work, and effort, not on wealth or background.",
     "source": "Our Common Bond - Democratic Beliefs",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 334,
@@ -3867,7 +3867,7 @@
     "isValuesQuestion": false,
     "explanation": "Defending Australia should the need arise is a responsibility of Australian citizenship.",
     "source": "Our Common Bond - Democratic Beliefs",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 340,
@@ -3912,7 +3912,7 @@
     "isValuesQuestion": false,
     "explanation": "Only Australian citizens can ask for consular assistance from an Australian official while overseas.",
     "source": "Our Common Bond - Democratic Beliefs",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 343,
@@ -3972,7 +3972,7 @@
     "isValuesQuestion": false,
     "explanation": "All Australian citizens and other people in Australia must obey Australian laws.",
     "source": "Our Common Bond - Democratic Beliefs",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 347,
@@ -3987,7 +3987,7 @@
     "isValuesQuestion": false,
     "explanation": "Voting is compulsory for Australian citizens aged 18 years or over in federal and state or territory elections.",
     "source": "Our Common Bond - Democratic Beliefs",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 348,
@@ -4032,7 +4032,7 @@
     "isValuesQuestion": false,
     "explanation": "A referendum is a vote to change the Australian Constitution. It requires a majority of voters in a majority of states to pass.",
     "source": "Our Common Bond - Democratic Beliefs",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 351,
@@ -4092,7 +4092,7 @@
     "isValuesQuestion": false,
     "explanation": "Australian citizens aged 18 years or over have the responsibility to serve on a jury if called to do so.",
     "source": "Our Common Bond - Democratic Beliefs",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 355,
@@ -4122,7 +4122,7 @@
     "isValuesQuestion": false,
     "explanation": "Australian citizens who are on the electoral roll can be called to serve on a jury.",
     "source": "Our Common Bond - Democratic Beliefs",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 357,
@@ -4197,7 +4197,7 @@
     "isValuesQuestion": false,
     "explanation": "Any Australian citizen who is aged 18 years or over can seek election to parliament at the federal, state, or territory level.",
     "source": "Our Common Bond - Democratic Beliefs",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 362,
@@ -4452,7 +4452,7 @@
     "isValuesQuestion": false,
     "explanation": "In Australia, federal, state and territory governments, and local councils all collect taxes to pay for services.",
     "source": "Our Common Bond - Democratic Beliefs",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 501,
@@ -5442,7 +5442,7 @@
     "isValuesQuestion": false,
     "explanation": "The Queen of Australia is the Head of State.",
     "source": "Our Common Bond - Government and the Law",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 567,
@@ -5457,7 +5457,7 @@
     "isValuesQuestion": false,
     "explanation": "Since the Queen does not live in Australia, her powers are delegated to the Governor-General.",
     "source": "Our Common Bond - Government and the Law",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 568,
@@ -5817,7 +5817,7 @@
     "isValuesQuestion": false,
     "explanation": "The leader of a local government is called a Mayor or Shire President.",
     "source": "Our Common Bond - Government and the Law",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 592,
@@ -5907,7 +5907,7 @@
     "isValuesQuestion": false,
     "explanation": "The Australian Parliament has two Houses: the House of Representatives and the Senate.",
     "source": "Our Common Bond - Government and the Law",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 598,
@@ -6102,7 +6102,7 @@
     "isValuesQuestion": false,
     "explanation": "The Senate is also known as the Upper House.",
     "source": "Our Common Bond - Government and the Law",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 611,
@@ -6177,7 +6177,7 @@
     "isValuesQuestion": false,
     "explanation": "Each territory has 2 senators in the Senate.",
     "source": "Our Common Bond - Government and the Law",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 616,
@@ -7257,7 +7257,7 @@
     "isValuesQuestion": false,
     "explanation": "It is never acceptable to offer a bribe to a police officer in Australia. It is a crime.",
     "source": "Our Common Bond - Government and the Law",
-    "recallCount": 0
+    "recallCount": 1
   },
   {
     "id": 688,
@@ -7422,7 +7422,7 @@
     "isValuesQuestion": false,
     "explanation": "Everyone traveling in a car must wear a seatbelt in Australia.",
     "source": "Our Common Bond - Government and the Law",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 699,
@@ -7452,7 +7452,7 @@
     "isValuesQuestion": false,
     "explanation": "Adelaide is the capital city of South Australia.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 9002,
@@ -7467,7 +7467,7 @@
     "isValuesQuestion": true,
     "explanation": "Since the Marriage Amendment (Definition and Religious Freedoms) Act 2017, two people of any sex or gender can legally marry in Australia.",
     "source": "Our Common Bond - Australian Values",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 9003,
@@ -7482,7 +7482,7 @@
     "isValuesQuestion": true,
     "explanation": "Australia is one of the most culturally diverse countries in the world, and this diversity is celebrated as one of its greatest strengths.",
     "source": "Our Common Bond - Australian Values",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 9004,
@@ -7497,7 +7497,7 @@
     "isValuesQuestion": false,
     "explanation": "The Governor-General is appointed as the representative of the King of Australia, Australia's Head of State, on the advice of the Prime Minister.",
     "source": "Our Common Bond - Government and the Law",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 9005,
@@ -7512,7 +7512,7 @@
     "isValuesQuestion": false,
     "explanation": "Members of Parliament are elected by Australian citizens aged 18 or over who are enrolled on the electoral roll. Voting is compulsory.",
     "source": "Our Common Bond - Government and the Law",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 9006,
@@ -7527,7 +7527,7 @@
     "isValuesQuestion": false,
     "explanation": "Australia has three levels of government: federal (Australian Government), state or territory governments, and local councils.",
     "source": "Our Common Bond - Government and the Law",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 9007,
@@ -7542,7 +7542,7 @@
     "isValuesQuestion": false,
     "explanation": "Perth is the capital city of Western Australia.",
     "source": "Our Common Bond - Australia and Its People",
-    "recallCount": 1
+    "recallCount": 2
   },
   {
     "id": 9008,
@@ -7601,6 +7601,186 @@
     "category": "government_and_law",
     "isValuesQuestion": false,
     "explanation": "Australian citizens have the right to leave Australia and return at any time without needing a resident return visa.",
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
+  },
+  {
+    "id": 9012,
+    "question": "Is polygamy legal in Australia?",
+    "options": [
+      "Yes, if all parties agree",
+      "No, polygamy is against the law in Australia",
+      "Only for certain religions"
+    ],
+    "correctAnswer": 1,
+    "category": "australian_values",
+    "isValuesQuestion": true,
+    "explanation": "Polygamy is against the law in Australia. A person can only be married to one other person at a time.",
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
+  },
+  {
+    "id": 9013,
+    "question": "Where is the Sydney Opera House located?",
+    "options": [
+      "Victoria",
+      "New South Wales",
+      "Queensland"
+    ],
+    "correctAnswer": 1,
+    "category": "australia_and_its_people",
+    "isValuesQuestion": false,
+    "explanation": "The Sydney Opera House is located in Sydney, the capital of New South Wales.",
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
+  },
+  {
+    "id": 9014,
+    "question": "In which state or territory is Uluru located?",
+    "options": [
+      "Western Australia",
+      "South Australia",
+      "Northern Territory"
+    ],
+    "correctAnswer": 2,
+    "category": "australia_and_its_people",
+    "isValuesQuestion": false,
+    "explanation": "Uluru is a large sandstone rock formation in the Northern Territory, sacred to the Anangu people.",
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
+  },
+  {
+    "id": 9015,
+    "question": "What is the capital city of Victoria?",
+    "options": [
+      "Melbourne",
+      "Geelong",
+      "Ballarat"
+    ],
+    "correctAnswer": 0,
+    "category": "australia_and_its_people",
+    "isValuesQuestion": false,
+    "explanation": "Melbourne is the capital city of Victoria and Australia's second-largest city.",
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
+  },
+  {
+    "id": 9016,
+    "question": "Who can give an Acknowledgement of Country in Australia?",
+    "options": [
+      "Only Aboriginal and Torres Strait Islander people",
+      "Only the Prime Minister",
+      "Any person (Indigenous or non-Indigenous)"
+    ],
+    "correctAnswer": 2,
+    "category": "australia_and_its_people",
+    "isValuesQuestion": false,
+    "explanation": "An Acknowledgement of Country can be given by any person, Indigenous or non-Indigenous, to show respect for the Traditional Owners of the land.",
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
+  },
+  {
+    "id": 9017,
+    "question": "When is an Acknowledgement of Country usually performed?",
+    "options": [
+      "Only on Australia Day",
+      "At the start of a meeting, event or ceremony",
+      "Only at citizenship ceremonies"
+    ],
+    "correctAnswer": 1,
+    "category": "australia_and_its_people",
+    "isValuesQuestion": false,
+    "explanation": "An Acknowledgement of Country is usually given at the start of a meeting, event or ceremony to recognise the Traditional Owners of the land.",
+    "source": "Our Common Bond - Australia and Its People",
+    "recallCount": 1
+  },
+  {
+    "id": 9018,
+    "question": "The Prime Minister is the head of which level of government?",
+    "options": [
+      "Local government",
+      "State or territory government",
+      "Federal (Australian) government"
+    ],
+    "correctAnswer": 2,
+    "category": "government_and_law",
+    "isValuesQuestion": false,
+    "explanation": "The Prime Minister is the leader of the Australian (federal) Government. States have Premiers and territories have Chief Ministers.",
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
+  },
+  {
+    "id": 9019,
+    "question": "Who is mainly responsible for maintaining public schools in Australia?",
+    "options": [
+      "The federal (Australian) Government",
+      "State and territory governments",
+      "Local councils"
+    ],
+    "correctAnswer": 1,
+    "category": "government_and_law",
+    "isValuesQuestion": false,
+    "explanation": "Public schools (along with public hospitals, roads, public transport and police) are primarily a responsibility of the state and territory governments.",
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
+  },
+  {
+    "id": 9020,
+    "question": "Who is mainly responsible for maintaining local roads in Australia?",
+    "options": [
+      "The federal Government",
+      "State governments",
+      "Local councils (local government)"
+    ],
+    "correctAnswer": 2,
+    "category": "government_and_law",
+    "isValuesQuestion": false,
+    "explanation": "Local roads, parks, rubbish collection and community facilities are the responsibility of local councils (local government).",
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
+  },
+  {
+    "id": 9021,
+    "question": "What does the Australian Parliament do?",
+    "options": [
+      "It enforces the law and runs the courts",
+      "It debates and makes the laws of Australia",
+      "It elects the King of Australia"
+    ],
+    "correctAnswer": 1,
+    "category": "government_and_law",
+    "isValuesQuestion": false,
+    "explanation": "The Parliament's main role is to debate proposals for new laws and to make the laws of Australia.",
+    "source": "Our Common Bond - Government and the Law",
+    "recallCount": 1
+  },
+  {
+    "id": 9022,
+    "question": "In Australia, discrimination is against the law if it is based on which of the following?",
+    "options": [
+      "Only on race",
+      "Only on religion",
+      "Race, sex, gender, age, religion, disability and similar grounds"
+    ],
+    "correctAnswer": 2,
+    "category": "australian_values",
+    "isValuesQuestion": true,
+    "explanation": "It is against the law to discriminate against a person because of their race, country of birth, sex, gender, age, religion, disability or sexuality.",
+    "source": "Our Common Bond - Australian Values",
+    "recallCount": 1
+  },
+  {
+    "id": 9023,
+    "question": "Which of the following can an Australian citizen apply for that a permanent resident cannot?",
+    "options": [
+      "A Medicare card",
+      "An Australian passport",
+      "A driver licence"
+    ],
+    "correctAnswer": 1,
+    "category": "government_and_law",
+    "isValuesQuestion": false,
+    "explanation": "Australian citizens can apply for an Australian passport, vote in federal and state elections, stand for parliament, and seek consular assistance overseas.",
     "source": "Our Common Bond - Government and the Law",
     "recallCount": 1
   }
