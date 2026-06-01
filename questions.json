@@ -6942,5 +6942,89 @@
     "isValuesQuestion": false,
     "explanation": "Using a hand-held mobile device while driving is against the law in Australia.",
     "source": "Our Common Bond - Government and the Law"
+  },
+  {
+    "id": 9001,
+    "question": "What is the capital city of South Australia?",
+    "options": [
+      "Perth",
+      "Adelaide",
+      "Hobart"
+    ],
+    "correctAnswer": 1,
+    "category": "australia_and_its_people",
+    "isValuesQuestion": false,
+    "explanation": "Adelaide is the capital city of South Australia.",
+    "source": "Our Common Bond - Australia and Its People"
+  },
+  {
+    "id": 9002,
+    "question": "In Australia, can two women legally marry each other?",
+    "options": [
+      "No, marriage is only between a man and a woman",
+      "Yes, same-sex marriage has been legal in Australia since 2017",
+      "Only in some states"
+    ],
+    "correctAnswer": 1,
+    "category": "australian_values",
+    "isValuesQuestion": true,
+    "explanation": "Since the Marriage Amendment (Definition and Religious Freedoms) Act 2017, two people of any sex or gender can legally marry in Australia.",
+    "source": "Our Common Bond - Australian Values"
+  },
+  {
+    "id": 9003,
+    "question": "What does diversity in Australian society mean?",
+    "options": [
+      "It is illegal and not accepted",
+      "It is tolerated but discouraged",
+      "It is celebrated as one of Australia's greatest strengths"
+    ],
+    "correctAnswer": 2,
+    "category": "australian_values",
+    "isValuesQuestion": true,
+    "explanation": "Australia is one of the most culturally diverse countries in the world, and this diversity is celebrated as one of its greatest strengths.",
+    "source": "Our Common Bond - Australian Values"
+  },
+  {
+    "id": 9004,
+    "question": "Who does the Governor-General represent in Australia?",
+    "options": [
+      "The Prime Minister",
+      "The Australian Parliament",
+      "The King of Australia (the monarch, our Head of State)"
+    ],
+    "correctAnswer": 2,
+    "category": "government_and_law",
+    "isValuesQuestion": false,
+    "explanation": "The Governor-General is appointed as the representative of the King of Australia, Australia's Head of State, on the advice of the Prime Minister.",
+    "source": "Our Common Bond - Government and the Law"
+  },
+  {
+    "id": 9005,
+    "question": "Who elects the Members of the Australian Parliament?",
+    "options": [
+      "The Prime Minister",
+      "Australian citizens aged 18 or over who are enrolled to vote",
+      "The Governor-General"
+    ],
+    "correctAnswer": 1,
+    "category": "government_and_law",
+    "isValuesQuestion": false,
+    "explanation": "Members of Parliament are elected by Australian citizens aged 18 or over who are enrolled on the electoral roll. Voting is compulsory.",
+    "source": "Our Common Bond - Government and the Law"
+  },
+  {
+    "id": 9006,
+    "question": "What are the three levels of government in Australia?",
+    "options": [
+      "Federal, State/Territory and Local",
+      "Federal, Royal and Local",
+      "Federal, State and Judicial"
+    ],
+    "correctAnswer": 0,
+    "category": "government_and_law",
+    "isValuesQuestion": false,
+    "explanation": "Australia has three levels of government: federal (Australian Government), state or territory governments, and local councils.",
+    "source": "Our Common Bond - Government and the Law"
   }
 ]
